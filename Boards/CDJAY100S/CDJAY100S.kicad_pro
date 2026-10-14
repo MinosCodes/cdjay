@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 4.5,
-          "width": 4.5
+          "drill": 1.0,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -288,7 +288,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "1.5"
+      "sch_revision": "1.6"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -817,7 +817,7 @@
         "uuid": "7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
       }
     ],
-    "used_designators": "JP1",
+    "used_designators": "#PWR27",
     "variants": []
   },
   "sheets": [
