@@ -8,14 +8,8 @@ The goal of this project is to bring this capability to older CDJ-Models in orde
 ## Related Work
 A number of other projects have looked at the same idea. Some turning the CDJ into a MIDI-based controller, others integrating a RaspberryPi and running Mixxx, and open source DJ-Software on it, essentially turning them into full-blown, standalone, media-players. 
 
-## USB-HID
-The key is the USB-HID protocol which the newer models provide. Instead of registering as a USB-Midi Device, they have their own, proprietary protocol. While this conflicts with the idea of an open and flexible interface, it has the advantage of providing bi-directional communication, and thus, be able to show additional information directly on the display of the CDJ. The most common DJ software supports the HID protocol.
-
-### Details
-Technically, the CDJ registers as a USB device with a number of endpoints:
-- The USB-HID interface for the control messages.
-- a USB-audio interface for audio-output from the CDJ itself (relevant if you don't use the internal mixer of the software, but an external mixer). 
-
+## Hardware
+The goal is to provide drop-in replacement mainboards that communicate with the original hardware and bridge to a USB connection. All boards start from a Raspberry Pi Pico 2, but depending on the model, more or less additional hardware is required. See the individual files in the docs folder. 
 
 ## Interface
 Since we want to focus on interfacing the old CDJs with the modern world (USB-C, Software, etc.), we use iPad mini running Algoriddim's djay in single deck mode, which gives us all the benefits such as touch interaction, integration to streaming services, etc.. Any iPad being able to run djay is fine, although interfacing is easier with the usb-c models. 
@@ -32,6 +26,19 @@ For the USB-Models, just connect the USB-C connection to your iPad.
 ## Acknowledgements
 
 This project was supported by...
+
+## Repositories
+This work is part of a University project with its main focus is on teaching. 
+The repository under https://git.fh-aachen.de/applab/projects/cdjay is the internal repo. 
+The repository under https://github.com/applab-fhaachen/cdjay is a mirror to facilitate development with a larger community.
+
+## Authors: 
+Original contributors are 
+- Florian H.
+- Julius P.
+- Konstantin P.
+- Mike B.
+- Nuno C.
 
 ## License
 MIT License
