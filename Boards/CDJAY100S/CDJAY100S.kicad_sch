@@ -9380,12 +9380,6 @@
 		(uuid "0a5d2632-514c-4af0-b7a6-39e2631cb467")
 	)
 	(junction
-		(at 43.18 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0acf243a-8e17-41dc-b9e0-3ce609245684")
-	)
-	(junction
 		(at 331.47 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9578,12 +9572,6 @@
 		(uuid "497a79ec-3b92-47a7-b713-662d18260ac9")
 	)
 	(junction
-		(at 45.72 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a7d5e87-2077-4b0a-944f-16c92446853e")
-	)
-	(junction
 		(at 255.27 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9672,12 +9660,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67415cbd-bffb-4581-b6a5-cceffca37836")
-	)
-	(junction
-		(at 45.72 204.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "694cd545-4fa2-4a5a-8a9e-19cb403ff4ac")
 	)
 	(junction
 		(at 331.47 48.26)
@@ -9860,12 +9842,6 @@
 		(uuid "ae9c55f8-00f0-429c-8cb2-5772e9aa1dc1")
 	)
 	(junction
-		(at 45.72 201.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b109be08-af7d-4150-9319-26bd6a7ef732")
-	)
-	(junction
 		(at 363.22 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9930,12 +9906,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca848a3a-1d5f-4485-a499-8d94a4a00173")
-	)
-	(junction
-		(at 40.64 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "caf974d1-4b98-431d-b60b-4d5f18995388")
 	)
 	(junction
 		(at 374.65 121.92)
@@ -10771,16 +10741,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 176.53) (xy 43.18 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1868e783-a7bc-4575-9322-ec9746c85e12")
-	)
-	(wire
-		(pts
 			(xy 359.41 120.65) (xy 359.41 127)
 		)
 		(stroke
@@ -11181,16 +11141,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 201.93) (xy 45.72 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "274ddcb9-6773-4c0c-8c6e-eff94f43ff71")
-	)
-	(wire
-		(pts
 			(xy 78.74 50.8) (xy 209.55 50.8)
 		)
 		(stroke
@@ -11491,16 +11441,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 176.53) (xy 43.18 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "357f7a01-bca9-4f36-b702-a2cdefe873a9")
-	)
-	(wire
-		(pts
 			(xy 204.47 127) (xy 337.82 127)
 		)
 		(stroke
@@ -11621,16 +11561,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 173.99) (xy 40.64 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c055ea4-3d32-4441-9c1d-29e3a6018ecd")
-	)
-	(wire
-		(pts
 			(xy 248.92 110.49) (xy 250.19 110.49)
 		)
 		(stroke
@@ -11721,7 +11651,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 179.07) (xy 45.72 179.07)
+			(xy 25.4 179.07) (xy 48.26 179.07)
 		)
 		(stroke
 			(width 0)
@@ -11981,7 +11911,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 176.53) (xy 26.67 176.53)
+			(xy 26.67 176.53) (xy 48.26 176.53)
 		)
 		(stroke
 			(width 0)
@@ -12008,16 +11938,6 @@
 			(type default)
 		)
 		(uuid "4c9a0d29-a4a7-4b69-9e06-8a5f7144fefd")
-	)
-	(wire
-		(pts
-			(xy 45.72 198.12) (xy 45.72 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cb7c834-8a63-4093-95c9-1a4c102b49d9")
 	)
 	(wire
 		(pts
@@ -12218,16 +12138,6 @@
 			(type default)
 		)
 		(uuid "54b681a8-74dc-44c9-af8b-2b8895df1c91")
-	)
-	(wire
-		(pts
-			(xy 45.72 201.93) (xy 45.72 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54d2c4d1-c8e2-40f6-9537-001a5e3df8a1")
 	)
 	(wire
 		(pts
@@ -12661,16 +12571,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 173.99) (xy 27.94 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "653c0221-b264-454f-8b9b-5430d04c05b1")
-	)
-	(wire
-		(pts
 			(xy 31.75 102.87) (xy 68.58 102.87)
 		)
 		(stroke
@@ -12928,16 +12828,6 @@
 			(type default)
 		)
 		(uuid "7200b87c-f67f-4adc-834a-ef44faf3609b")
-	)
-	(wire
-		(pts
-			(xy 43.18 198.12) (xy 43.18 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "721881fa-a81e-475f-8ff5-9496037c407a")
 	)
 	(wire
 		(pts
@@ -13961,16 +13851,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 198.12) (xy 40.64 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fb73cf1-f5e0-4ce6-bcb8-775062610023")
-	)
-	(wire
-		(pts
 			(xy 68.58 181.61) (xy 203.2 181.61)
 		)
 		(stroke
@@ -14001,7 +13881,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 173.99) (xy 40.64 173.99)
+			(xy 27.94 173.99) (xy 48.26 173.99)
 		)
 		(stroke
 			(width 0)
@@ -14501,16 +14381,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 179.07) (xy 48.26 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b17b792b-4966-4331-83a3-e6d5ca047633")
-	)
-	(wire
-		(pts
 			(xy 15.24 77.47) (xy 15.24 186.69)
 		)
 		(stroke
@@ -14558,16 +14428,6 @@
 			(type default)
 		)
 		(uuid "b32212ba-4ab3-438c-83ed-662f37c07c08")
-	)
-	(wire
-		(pts
-			(xy 45.72 179.07) (xy 45.72 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3bac96c-aa06-40e1-a0d4-70c3e53c4704")
 	)
 	(wire
 		(pts
@@ -15951,16 +15811,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 204.47) (xy 45.72 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec74999b-2fda-41fc-b6ce-2178ef4b8ec0")
-	)
-	(wire
-		(pts
 			(xy 262.89 81.28) (xy 266.7 81.28)
 		)
 		(stroke
@@ -16721,7 +16571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00723f4b-58cd-4b86-b1b4-cc30bf2cc591")
-		(property "Reference" "U5"
+		(property "Reference" "U2"
 			(at 145.6533 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16839,7 +16689,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "U5")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -16857,7 +16707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0262de4b-8361-43fa-8fc6-8ad32ba9d504")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 398.78 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -16917,7 +16767,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -16935,7 +16785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "047cf087-3a5a-4dde-821d-c04dd5f67042")
-		(property "Reference" "C23"
+		(property "Reference" "C14"
 			(at 256.54 161.2962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16999,7 +16849,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C23")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -17016,7 +16866,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "04fdcfb2-3798-4dd1-a2d0-eff47550c30f")
-		(property "Reference" "C27"
+		(property "Reference" "C3"
 			(at 149.86 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17078,7 +16928,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C27")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -17096,7 +16946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0594d708-b578-4f5e-b5ac-627d56d9bfec")
-		(property "Reference" "D9"
+		(property "Reference" "D2"
 			(at 35.56 234.9499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17182,7 +17032,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D9")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -17200,7 +17050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05a7aea3-39c9-4062-8970-f9510c6cc81d")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR09"
 			(at 256.54 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -17260,7 +17110,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR014")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -17277,7 +17127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07b3dedc-fa1b-4798-8e6c-17ff67e89d7a")
-		(property "Reference" "R24"
+		(property "Reference" "R12"
 			(at 228.6 212.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17339,7 +17189,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R24")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -17439,7 +17289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e7bf282-832d-4b38-aca3-62f30bd3926c")
-		(property "Reference" "R12"
+		(property "Reference" "R21"
 			(at 340.36 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17501,7 +17351,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R12")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -17607,7 +17457,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fb113da-7ef3-4495-b38f-0a260cc31880")
-		(property "Reference" "C18"
+		(property "Reference" "C24"
 			(at 330.2 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17669,7 +17519,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C18")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -17687,7 +17537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15475b51-71cf-4346-92ad-6f94378db800")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR011"
 			(at 275.59 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -17747,7 +17597,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR026")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -17766,7 +17616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15deb666-4aee-4e7f-a183-7f2bbbcfcfa4")
-		(property "Reference" "CN701"
+		(property "Reference" "CN1"
 			(at 372.11 168.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17932,7 +17782,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "CN701")
+					(reference "CN1")
 					(unit 1)
 				)
 			)
@@ -17950,7 +17800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b0935d6-ec13-448c-b989-958ce1c347ee")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 60.5633 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18068,87 +17918,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 43.18 195.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "252372b5-14d8-42a6-b559-18817ad8bafe")
-		(property "Reference" "R18"
-			(at 43.18 195.58 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 43.18 198.12 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 43.18 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 43.18 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9597e568-c1f0-4511-a4da-a94491a15993")
-		)
-		(pin "2"
-			(uuid "12153fb8-6265-4f50-ba82-85a23c056b7e")
-		)
-		(instances
-			(project "CDJAY100S"
-				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R18")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -18166,7 +17936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28b0d612-d8b9-4b05-9b41-729ce2b456d2")
-		(property "Reference" "C15"
+		(property "Reference" "C12"
 			(at 252.73 113.0362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18230,7 +18000,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C15")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -18248,7 +18018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "296afad0-d0db-4ba0-8232-f08b9688d3bd")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR07"
 			(at 241.3 127 0)
 			(hide yes)
 			(show_name no)
@@ -18308,7 +18078,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR019")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -18326,7 +18096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a3ca86f-7840-4dd4-9f2d-a4a42c651eb6")
-		(property "Reference" "D11"
+		(property "Reference" "D4"
 			(at 38.1 252.7299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18412,7 +18182,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D11")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -18430,7 +18200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bfe7858-3bb6-4581-a9c7-043178828b61")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR014"
 			(at 336.55 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -18490,7 +18260,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR03")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -18507,7 +18277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32faeb15-5fe5-43c6-b39e-4df3d8ec7ae4")
-		(property "Reference" "C17"
+		(property "Reference" "C2"
 			(at 73.66 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18569,7 +18339,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C17")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -18587,7 +18357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3528728f-ac91-4ee8-8d38-2759c30f3021")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 387.35 35.1946 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18692,7 +18462,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -18790,7 +18560,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d0b99fe-d3d7-4e26-99a8-678b2a962ba9")
-		(property "Reference" "C20"
+		(property "Reference" "C26"
 			(at 334.01 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18852,7 +18622,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C20")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -18869,7 +18639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d996221-2e34-4879-905b-1f616dadd7a5")
-		(property "Reference" "C25"
+		(property "Reference" "C9"
 			(at 224.79 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18931,7 +18701,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C25")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -18948,7 +18718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f69fbed-111c-4a4b-8de4-143d6fdb3bbf")
-		(property "Reference" "D14"
+		(property "Reference" "D6"
 			(at 367.03 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19032,7 +18802,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D14")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -19049,7 +18819,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4036f5bb-3a4c-4542-93b2-a734703226e6")
-		(property "Reference" "R21"
+		(property "Reference" "R4"
 			(at 43.18 217.17 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19112,7 +18882,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R21")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -19130,7 +18900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41455def-a004-4b90-a143-0a17f59fda6b")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR015"
 			(at 345.44 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -19190,7 +18960,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR07")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19297,7 +19067,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4427e304-ff31-4c09-a84b-4ba8f54cd0d3")
-		(property "Reference" "R9"
+		(property "Reference" "R6"
 			(at 52.07 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19360,7 +19130,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R9")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -19731,7 +19501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bf3b7a0-9c9f-481a-8b68-7a9b72d61bed")
-		(property "Reference" "R25"
+		(property "Reference" "R13"
 			(at 228.6 214.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19793,7 +19563,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R25")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -19919,7 +19689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516b1450-972c-49d5-9ad1-36cbbd92d418")
-		(property "Reference" "C22"
+		(property "Reference" "C10"
 			(at 243.84 175.2662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19983,87 +19753,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 45.72 195.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "53ca6ff6-e4c3-4055-8be8-d537d83e2ffc")
-		(property "Reference" "R17"
-			(at 45.72 195.58 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 45.72 198.12 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 45.72 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 45.72 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "eef249cf-e8fe-468f-919c-d70e06ae6183")
-		)
-		(pin "2"
-			(uuid "712b7e67-de13-41b2-bc9a-b4a51016e0cd")
-		)
-		(instances
-			(project "CDJAY100S"
-				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R17")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -20081,7 +19771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54848aa9-6b7f-49db-95a5-ba6eb288055c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR025"
 			(at 402.59 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -20141,7 +19831,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR012")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -20159,7 +19849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55058463-3ddc-40a3-b56a-e4f830a0ce8d")
-		(property "Reference" "C9"
+		(property "Reference" "C27"
 			(at 341.63 49.5362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20223,7 +19913,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C9")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -20240,7 +19930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55a56c1b-4341-4da5-a4f2-22177652b79e")
-		(property "Reference" "R26"
+		(property "Reference" "R14"
 			(at 228.6 217.17 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20302,7 +19992,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R26")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -20320,7 +20010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5608982a-b92e-4c3c-9c84-e304435b45a2")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR05"
 			(at 219.71 127 0)
 			(hide yes)
 			(show_name no)
@@ -20380,7 +20070,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR020")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -20397,7 +20087,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "57ff1059-a1ff-4a8a-9728-615d4805dcd0")
-		(property "Reference" "R8"
+		(property "Reference" "R2"
 			(at 43.18 212.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20460,7 +20150,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R8")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -20478,7 +20168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c41d3e2-e790-4375-b3a7-eb435f3e765f")
-		(property "Reference" "U1"
+		(property "Reference" "U5"
 			(at 293.37 177.7298 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20690,7 +20380,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "U1")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -20709,7 +20399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "612c6966-5d73-48bf-9632-13de85308ba2")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 173.1167 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20797,7 +20487,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "U6")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -20814,7 +20504,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62fe11a1-b80c-4373-bdb8-f1bd1f018544")
-		(property "Reference" "R11"
+		(property "Reference" "R8"
 			(at 52.07 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20876,7 +20566,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R11")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -20894,7 +20584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "668ff21a-1ceb-4046-a194-be3ad3cffdc9")
-		(property "Reference" "C24"
+		(property "Reference" "C11"
 			(at 251.46 161.2962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20958,7 +20648,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C24")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -20976,7 +20666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6869e8da-1085-4e7c-af75-c01539067303")
-		(property "Reference" "C5"
+		(property "Reference" "C29"
 			(at 374.65 128.2762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21040,7 +20730,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C5")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -21058,7 +20748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68d7916a-600f-4d6d-925d-09e98e1d2199")
-		(property "Reference" "C14"
+		(property "Reference" "C13"
 			(at 254 97.7962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21122,7 +20812,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C14")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -21140,7 +20830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68f376d5-c61c-4ce7-876a-0f727132837d")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR016"
 			(at 353.06 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -21200,7 +20890,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR010")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -21218,7 +20908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a69bc5a-c6bb-4af4-97cd-423a1fb83953")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR017"
 			(at 353.06 127 0)
 			(hide yes)
 			(show_name no)
@@ -21278,7 +20968,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR09")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -21296,7 +20986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c18fa2d-cbef-4754-9924-c783ad5bafa1")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR021"
 			(at 367.03 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -21356,7 +21046,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR05")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -21374,7 +21064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "715a7852-78ec-48a5-b297-ff4894a7cdba")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR04"
 			(at 121.92 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -21434,87 +21124,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 40.64 195.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "731493aa-a2fa-4806-a374-466bf7cd53ac")
-		(property "Reference" "R19"
-			(at 40.64 195.58 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 40.64 198.12 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 40.64 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 40.64 195.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7ed3a3c1-ff10-47bb-b24c-173a405afcb9")
-		)
-		(pin "2"
-			(uuid "175b8012-dab6-466e-8bdb-fd20d89183b4")
-		)
-		(instances
-			(project "CDJAY100S"
-				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R19")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -21532,7 +21142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "758fef1e-6ea4-482c-b4df-b2ca8f95a820")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR02"
 			(at 60.96 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21592,7 +21202,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR027")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -21609,7 +21219,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75f792be-672f-4f0f-8e70-f89378971d7d")
-		(property "Reference" "C29"
+		(property "Reference" "C18"
 			(at 257.81 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21671,7 +21281,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C29")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -21688,7 +21298,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77232987-8948-4aa7-9bb2-75d0dd4b315f")
-		(property "Reference" "R28"
+		(property "Reference" "R16"
 			(at 228.6 222.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21750,7 +21360,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R28")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -21767,7 +21377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "778bd006-96b3-4547-b500-6b09d058b36b")
-		(property "Reference" "R30"
+		(property "Reference" "R18"
 			(at 228.6 227.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21829,7 +21439,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R30")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -21847,7 +21457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c0754c4-fd6c-4219-b7f6-f643c1b18134")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR010"
 			(at 266.7 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -21907,7 +21517,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR025")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -21924,7 +21534,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c349ba3-34a0-4fce-8089-ee130a7173fa")
-		(property "Reference" "R10"
+		(property "Reference" "R7"
 			(at 52.07 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21988,7 +21598,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R10")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -22006,7 +21616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e848dd6-0f46-4ed2-9323-cd673095ee5e")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 387.35 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -22066,7 +21676,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -22083,7 +21693,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8037658b-0330-48c9-95c5-17cfebfa524d")
-		(property "Reference" "R31"
+		(property "Reference" "R19"
 			(at 228.6 229.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22145,7 +21755,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R31")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -22162,7 +21772,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "852d0249-cdf4-4175-9cf3-67ebc17105da")
-		(property "Reference" "R13"
+		(property "Reference" "R22"
 			(at 340.36 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22224,7 +21834,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R13")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -22241,7 +21851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8930f47e-fd70-4cf7-aad0-6cc82e0eb926")
-		(property "Reference" "R7"
+		(property "Reference" "R1"
 			(at 43.18 209.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22304,7 +21914,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R7")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -22321,7 +21931,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fc2a6e7-616b-449f-9ea5-4ea3e714101a")
-		(property "Reference" "C32"
+		(property "Reference" "C20"
 			(at 260.35 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22383,7 +21993,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C32")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -22400,7 +22010,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9047f320-85a9-4bc2-86d5-16bba143fb6e")
-		(property "Reference" "C11"
+		(property "Reference" "C17"
 			(at 257.81 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22462,7 +22072,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C11")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -22479,7 +22089,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91b423d9-add6-49c8-b90b-da5060581513")
-		(property "Reference" "CNT2"
+		(property "Reference" "CNT1"
 			(at 116.84 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -22544,7 +22154,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "CNT2")
+					(reference "CNT1")
 					(unit 1)
 				)
 			)
@@ -22757,7 +22367,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95e84e92-24f4-4612-8c9a-1432a9726e20")
-		(property "Reference" "C30"
+		(property "Reference" "C15"
 			(at 257.81 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22819,7 +22429,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C30")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -22836,7 +22446,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "983234e9-5710-4345-bd28-c88f29fb86d5")
-		(property "Reference" "R14"
+		(property "Reference" "R23"
 			(at 350.52 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22899,7 +22509,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R14")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -22916,7 +22526,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "98d3e800-8354-44ef-ac61-0fa9a3acd084")
-		(property "Reference" "R23"
+		(property "Reference" "R9"
 			(at 199.39 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22980,7 +22590,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R23")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -22998,7 +22608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9deaa2f1-92cf-4d05-8781-d5b1bb43fe80")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR01"
 			(at 58.42 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -23058,7 +22668,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR017")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -23076,7 +22686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fd61e79-5dcc-4284-a0b1-65f969b25408")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR024"
 			(at 402.59 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -23136,7 +22746,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR011")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -23154,7 +22764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2e3fd5b-3a65-4e97-9f4c-f83572ddb864")
-		(property "Reference" "C7"
+		(property "Reference" "C25"
 			(at 337.82 41.9162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23218,7 +22828,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C7")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -23236,7 +22846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8c66d92-56ba-4631-8cfe-e827ea129810")
-		(property "Reference" "C26"
+		(property "Reference" "C22"
 			(at 276.86 113.0363 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23298,7 +22908,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C26")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -23316,7 +22926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af31e9ce-3eb6-4a2b-ad66-d936dcfddf24")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR019"
 			(at 356.87 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -23376,7 +22986,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR08")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -23394,7 +23004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6383b6c-0c74-420a-94c5-e4eacc8884c6")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR020"
 			(at 365.76 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -23454,7 +23064,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR06")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -23471,7 +23081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b71e988f-57c0-4f29-9d67-6a379d736fae")
-		(property "Reference" "C12"
+		(property "Reference" "C1"
 			(at 73.66 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23533,7 +23143,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C12")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -23551,7 +23161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b81eb1a0-c4a0-444a-aa1e-de861b67c179")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 96.52 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -23611,7 +23221,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR04")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -23628,7 +23238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc0ec029-58c7-4bbe-83c0-0fe9329c9420")
-		(property "Reference" "C31"
+		(property "Reference" "C8"
 			(at 224.79 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23690,7 +23300,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C31")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -23793,7 +23403,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf0006e0-a1ec-41fc-b81e-011073393648")
-		(property "Reference" "C33"
+		(property "Reference" "C21"
 			(at 267.97 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23855,7 +23465,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C33")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -23872,7 +23482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1818fcd-34f8-4237-aca6-711deace986e")
-		(property "Reference" "R37"
+		(property "Reference" "R25"
 			(at 394.97 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23934,7 +23544,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R37")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -23952,7 +23562,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd50aed0-a17e-476d-8f26-f6108915a4f7")
-		(property "Reference" "D12"
+		(property "Reference" "D5"
 			(at 39.37 261.6199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24038,7 +23648,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D12")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -24055,7 +23665,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "cd6ba49b-ad05-43e9-9989-737e307ca4c2")
-		(property "Reference" "R34"
+		(property "Reference" "R24"
 			(at 356.87 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24118,7 +23728,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R34")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -24228,7 +23838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d48fbaf5-67b4-402b-a62f-a4aa3059923a")
-		(property "Reference" "C28"
+		(property "Reference" "C4"
 			(at 149.86 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24290,7 +23900,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C28")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -24307,7 +23917,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8346a0b-5534-4ac8-af5f-ded35ef07516")
-		(property "Reference" "R29"
+		(property "Reference" "R17"
 			(at 228.6 224.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24369,7 +23979,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R29")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -24386,7 +23996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbb17e6f-828c-4594-9330-0adf7bf11c1e")
-		(property "Reference" "D15"
+		(property "Reference" "D8"
 			(at 374.65 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24470,7 +24080,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D15")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -24487,7 +24097,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd69f50f-ec16-4fc1-8579-76d3d4ccfa35")
-		(property "Reference" "C19"
+		(property "Reference" "C6"
 			(at 201.93 196.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24551,7 +24161,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C19")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -24569,7 +24179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df474ea1-bc11-4064-ae38-081cdc30ac72")
-		(property "Reference" "C6"
+		(property "Reference" "C28"
 			(at 364.49 130.8162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24633,7 +24243,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C6")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -24651,7 +24261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4393bb3-65d5-4e02-b459-fbc49b0853e6")
-		(property "Reference" "C21"
+		(property "Reference" "C7"
 			(at 218.44 198.1262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24715,7 +24325,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C21")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -24732,7 +24342,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4567cd8-739f-4aed-becd-24cd9ffd966c")
-		(property "Reference" "R27"
+		(property "Reference" "R15"
 			(at 228.6 219.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24794,7 +24404,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R27")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -24812,7 +24422,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4765deb-3b83-4565-b640-ca3ae34a5f90")
-		(property "Reference" "D10"
+		(property "Reference" "D3"
 			(at 36.83 243.8399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24898,7 +24508,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D10")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -24915,7 +24525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e59c905e-42c5-4de1-bf85-432bb729c421")
-		(property "Reference" "C13"
+		(property "Reference" "C16"
 			(at 257.81 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24977,7 +24587,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C13")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -24994,7 +24604,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6afb5a0-01d8-4c08-937c-9aebd326a3fa")
-		(property "Reference" "D16"
+		(property "Reference" "D7"
 			(at 369.57 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25078,7 +24688,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D16")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -25096,7 +24706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e70c48bb-a262-4c38-b69c-b9cbd496a07b")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR018"
 			(at 355.6 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -25156,7 +24766,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR013")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -25173,7 +24783,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e75dc383-5df4-4407-92d6-76f5f4e0a803")
-		(property "Reference" "R22"
+		(property "Reference" "R5"
 			(at 43.18 219.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25236,7 +24846,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R22")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -25254,7 +24864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e763c9f1-8ea3-46cf-bb39-dfe2a62e03bb")
-		(property "Reference" "CN705"
+		(property "Reference" "CN2"
 			(at 379.222 93.726 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25356,7 +24966,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "CN705")
+					(reference "CN2")
 					(unit 1)
 				)
 			)
@@ -25373,7 +24983,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e84adc07-4a34-467a-a8ab-123cd86a00f8")
-		(property "Reference" "D13"
+		(property "Reference" "D9"
 			(at 377.19 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25457,7 +25067,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D13")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -25475,7 +25085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8e0d1b1-9f8e-4a24-9cc3-fcd4a71c2936")
-		(property "Reference" "C16"
+		(property "Reference" "C19"
 			(at 266.7 113.0363 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25537,7 +25147,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C16")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -25554,7 +25164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea240841-cb90-4823-ae86-9eecf345f0f3")
-		(property "Reference" "C34"
+		(property "Reference" "C5"
 			(at 166.37 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25616,7 +25226,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C34")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -25634,7 +25244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eabdd690-a8ec-4622-a24f-ecc354ffd543")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR06"
 			(at 227.33 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -25694,7 +25304,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR015")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -25712,7 +25322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebb673e7-7d0d-431d-a7ab-bb6c1f770b8e")
-		(property "Reference" "D8"
+		(property "Reference" "D1"
 			(at 34.29 226.0599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25798,7 +25408,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "D8")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -25815,7 +25425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "edf92bde-2f38-442c-85e9-5beb05c7d4ff")
-		(property "Reference" "R16"
+		(property "Reference" "R11"
 			(at 215.9 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25880,7 +25490,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R16")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -25897,7 +25507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef1bd1ab-9aa7-4544-8796-89f7d0b20564")
-		(property "Reference" "R35"
+		(property "Reference" "R10"
 			(at 203.2 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25961,7 +25571,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R35")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -25979,7 +25589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5283f2f-1042-4cd7-a973-ecbb4272b102")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR08"
 			(at 245.11 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -26039,7 +25649,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR016")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -26057,7 +25667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ea9a2f-5dd3-4885-a66b-780bfe8b90b5")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR013"
 			(at 331.47 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -26117,7 +25727,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR024")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -26135,7 +25745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f65c7aeb-ca39-45d0-b651-35d82a628d95")
-		(property "Reference" "C8"
+		(property "Reference" "C23"
 			(at 334.01 49.5362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26199,7 +25809,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "C8")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -26216,7 +25826,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6893676-67da-48bc-b1a7-8290ccc7fb90")
-		(property "Reference" "R15"
+		(property "Reference" "R3"
 			(at 43.18 214.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26279,7 +25889,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R15")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -26297,7 +25907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb537cf5-120e-4f66-ba90-fa03816ab7a8")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR012"
 			(at 328.93 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -26357,7 +25967,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "#PWR023")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -26374,7 +25984,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe7b9cb1-44aa-4825-9190-23076da81195")
-		(property "Reference" "R36"
+		(property "Reference" "R26"
 			(at 397.51 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26437,7 +26047,7 @@
 		(instances
 			(project "CDJAY100S"
 				(path "/7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
-					(reference "R36")
+					(reference "R26")
 					(unit 1)
 				)
 			)

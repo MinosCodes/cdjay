@@ -817,7 +817,7 @@
         "uuid": "7da26f59-1cc1-4d8c-b6c1-66e5f20ab1d6"
       }
     ],
-    "used_designators": "",
+    "used_designators": "X1,Upstream1,R1-29,JP1,J1,i2S_Audio1,FrontUSB1,rPi1,D1-9,#PWR1-25,U1-6,C1-29,CNT1,PicoUSB1,CN1-2",
     "variants": []
   },
   "sheets": [
