@@ -111,3 +111,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Build artifacts & local caches
+.pio/
+__pycache__/
+*.pyc
